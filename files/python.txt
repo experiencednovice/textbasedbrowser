@@ -1,0 +1,51 @@
+[37m3.8.4rc1 Documentation
+[34mindex
+[34mmodules
+[34mPython
+[34m3.8.4rc1 Documentation
+[37mPython 3.8.4rc1 documentation
+[37mWelcome! This is the documentation for Python 3.8.4rc1.
+[34mWhat's new in Python 3.8?
+[34mall "What's new" documents
+[34mTutorial
+[34mLibrary Reference
+[34mLanguage Reference
+[34mPython Setup and Usage
+[34mPython HOWTOs
+[34mInstalling Python Modules
+[34mDistributing Python Modules
+[34mExtending and Embedding
+[34mPython/C API
+[34mFAQs
+[34mGlobal Module Index
+[34mGeneral Index
+[34mGlossary
+[34mSearch page
+[34mComplete Table of Contents
+[34mReporting bugs
+[34mContributing to Docs
+[34mAbout the documentation
+[34mHistory and License of Python
+[34mCopyright
+[34mDownload these documents
+[34mPython 3.10 (in development)
+[34mPython 3.9 (pre-release)
+[34mPython 3.8 (stable)
+[34mPython 3.7 (security-fixes)
+[34mPython 3.6 (security-fixes)
+[34mPython 3.5 (security-fixes)
+[34mPython 2.7 (EOL)
+[34mAll versions
+[34mPEP Index
+[34mBeginner's Guide
+[34mBook List
+[34mAudio/Visual Talks
+[34mPython Developer’s Guide
+[34mindex
+[34mmodules
+[34mPython
+[34m3.8.4rc1 Documentation
+[34mCopyright
+[34mPlease donate.
+[34mFound a bug
+[34mSphinx
